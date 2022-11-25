@@ -21,7 +21,7 @@ int main()
 /*Comprueba si cumple cierta condición ejecutándose una y otra vez hasta que deje de cumplirse.*/                                                              
 }while(i<FMGA_c);                                                                                                           
 cout<<"La suma de los numeros fue: "<<s<<endl;                                                            
-/*Finaliza la ejecución de una función y devuelve el control ala función de llamada.*/                                                                                                      
+/*Finaliza la ejecución de una función y devuelve el control a la función de llamada.*/                                                                                                      
  return 0;
 
 }
